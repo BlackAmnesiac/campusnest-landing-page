@@ -1,0 +1,33 @@
+/* ==========================================================
+   CampusNest — Guía de estilo (tokens de diseño)
+   Todos los colores del proyecto salen de ESTE archivo.
+   Para cambiar la paleta, edita solo los valores de aquí.
+   ========================================================== */
+:root{
+  /* --- Color primario: Navbar, botones principales, identidad de marca --- */
+  --primary:#E11D48;
+  --primary-dark:#BE123C;          /* hover de botones primarios */
+  --primary-container:#3A1722;     /* fondos suaves / estado activo */
+  --primary-border:#5C2330;
+  --primary-deep:#4C1226;          /* degradado del panel de login */
+  --primary-deeper:#6A1632;
+  --on-primary:#FFFFFF;            /* texto sobre el color primario */
+  --primary-rgb:225,29,72;
+
+  /* --- Color secundario: botones secundarios, enlaces, elementos interactivos --- */
+  --secondary:#FB7185;
+
+  /* --- Neutros (tema oscuro) --- */
+  --bg:#121214; --panel:#1C1C1F; --raise:#2A2A2E;
+  --border:#2E2E33; --line2:#3F3F46;
+  --text:#E8E8EA; --muted:#A1A1AA;
+  --text-rgb:232,232,234; --panel-rgb:28,28,31;
+
+  /* --- Estados --- */
+  --ok:#34D399; --ok-s:#10302A;
+
+  /* --- Medidas y sombras --- */
+  color-scheme:dark; --r:12px; --nav:68px;
+  --sh1:0 1px 2px rgba(0,0,0,.4),0 2px 8px rgba(0,0,0,.3);
+  --sh2:0 6px 24px rgba(0,0,0,.55);
+}
