@@ -29,18 +29,18 @@ Abrir `index.html` en el navegador. Para que los botones lleguen a la Web Applic
 
 ## Enlaces
 
-- Diseño en Figma: _(pegar el link)_
-- Web Application: _(pegar el link del repositorio)_
+- Diseño en Figma: https://www.figma.com/design/ksTadJeMR4BF5D97usDBrn/campusname-mockups?node-id=7-248&t=dVgZtFgiDOl6nfXt-1
+- Web Application: https://github.com/BlackAmnesiac/campusnest-web-app 
 - Backend: https://github.com/andynary/campusnest-web-services
 
 ## Integrantes
 
 | Nombre y apellido | Usuario de GitHub |
 |---|---|
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
+| Andy Condori | andynary |
+| Austin Flores | BlackAmnesiac |
+| Diego Flores | DiegoFlores-123 |
+| Peter Pacherres | Peter-PachMu |
 
 ## Convención de commits
 
