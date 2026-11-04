@@ -6,7 +6,7 @@
   "use strict";
 
   // Mientras trabajan en local (ambos repos clonados lado a lado) funciona tal cual.
-  var APP_URL = "../campusnest-web-application/index.html";
+  var APP_URL = "http://localhost:4200/";
 
   function appLink(hash, role, query) {
     var qs = [];
